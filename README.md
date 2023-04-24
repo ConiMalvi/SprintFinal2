@@ -5,7 +5,8 @@ Esta calculadora permite realizar funciones matematicas basicas como sumar, rest
 ademas se encuentra el validador que indica que no se puede dividir por 0
 
 
-https://github.com/ConiMalvi/SprintFinal2
+https://github.com/diegoxnunez/Calculadora
+
 
 Para la configuracion del proyecto seguiremos los siguientes pasos:
 
